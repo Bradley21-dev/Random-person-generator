@@ -20,7 +20,7 @@ function App() {
 
   if (!user)
     return (
-      <div className="mt-10 p-5 text-cyan-950  flex flex-col gap-5 items-center text-5xl text-mono font-bold">
+      <div className="mt-10 p-5 text-cyan-950  flex flex-col gap-5 items-center animate-bounce text-5xl text-mono font-bold">
         {" "}
         Loading...
       </div>
