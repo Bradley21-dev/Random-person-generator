@@ -21,7 +21,7 @@ function App() {
   if (!user)
     return (
      <div className="flex justify-center items-center">
-   <div className="flex justify-center  items-center animate-spin mt-20 h-10 w-10 border-4 rounded-full border-t-transparent border-blue-500"></div>
+   <div className="flex justify-center  items-center animate-spin mt-20 h-10 w-10 border-4 rounded-full border-t-transparent border-blue-700"></div>
 </div>
     );
   return (
